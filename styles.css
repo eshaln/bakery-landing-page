@@ -67,24 +67,7 @@
            
         }
 
-         .feature-card{
-            background-color:bisque;
-            border-radius: 8px;
-            padding: 20px;
-            margin: 20px;
-            text-align: center;
-            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-         }
-         .features{
-            display: flex;
-            justify-content: center;
-            flex-wrap: wrap;
-         }
-         ul{
-            margin-bottom: 10px;
-            font-family: 'Poppins';
-            font-size: 25px;
-         }
+
           h1{
             color: #2e1304;
             font-family: 'Playfair Display SC';
