@@ -10,6 +10,8 @@
             align-items: center;
 
             padding: 20px 80px;
+            border-bottom: 1px solid rgba(58,42,32,0.12);
+            background: #FBF3E7;
 
         }
 
