@@ -173,12 +173,7 @@
             height: auto;
 
              }
-           .home-page{
-             background-image:url(images/bg\ template.jpg);
-             background-size:cover;
-             background-position: center;
-
-           }
+         
           
            .desserts-img{
               display:flex;
