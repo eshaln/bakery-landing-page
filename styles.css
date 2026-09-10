@@ -24,19 +24,15 @@
         .nav-menu a {
             text-decoration: none;
 
-            color:#3A2A20;
-
-
+            color: #3A2A20;
 
         }
-
-        h3{
-            font-size: 28px;
-            text-align: center;
-            color:#3A2A20;
-           
-
+        .nav-menu h3{
+            font-size:24px;
         }
+
+
+
         .split-section{
             display: grid;
             grid-template-columns: 1.1fr 0.9fr;
