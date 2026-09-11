@@ -169,6 +169,13 @@
            margin-top:10px;
        }
 
+       .featured-cards{
+           align-items:center;
+           justify-content:center;
+           display:flex;
+
+       }
+     
 
 
           /* MENU*/
