@@ -184,6 +184,11 @@
            font-size:35px;
            font-weight:900;
        }
+
+        .featured-card p{
+            font-size:22px;
+
+        }
         .featured-card{
             width:300px;
             height:300px;
