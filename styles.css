@@ -115,6 +115,21 @@
             text-transform:capitalize
         }
 
+          .button1{
+
+
+              color:white;
+              background-color: #a13d5a;
+              border-radius:20px;
+              padding:12px 22px;
+              margin-left:300px;
+              margin-top:30px;
+
+          }
+
+
+
+          /* MENU*/
         .cakes{
          background-color:rgb(186, 153, 109);
          border-radius: 4 px;
