@@ -67,6 +67,12 @@
             color: #a13d5a;
             font-style: italic;
         }
+        .homepage-section2 img {
+            width: 380px;
+            max-width: 100%;
+            height: auto;
+            display: block;
+        }
 
         .homepage-section1 p{
             font-size:16px;
