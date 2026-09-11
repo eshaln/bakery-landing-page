@@ -180,6 +180,10 @@
            flex-wrap: wrap;
 
        }
+       .featured-card h1{
+           font-size:35px;
+           font-weight:900;
+       }
         .featured-card{
             width:300px;
             height:300px;
