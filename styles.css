@@ -40,7 +40,20 @@
             gap: 48px;
             align-items: center;
         }
-        
+        .badge{
+            display: inline-block;
+            background: #f3ddd6;
+            color: #a13d5a;
+            font-size: 13px;
+            font-weight: 700;
+            letter-spacing: 1px;
+            padding: 8px 14px;
+            border-radius: 20px;
+            margin-left:300px;
+            margin-top:100px;
+            margin-bottom:20px;
+        }
+
         .homepage-section1 h3{
             font-size:70px;
             margin-top:100px;
