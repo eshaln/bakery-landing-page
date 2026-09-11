@@ -136,6 +136,21 @@
             border: 1px solid #3A2A20;
         }
 
+       .featured-items{
+           background-color:white;
+
+       }
+       .badge2{
+           display: inline-block;
+           background: #f3ddd6;
+           color: #a13d5a;
+           font-size: 13px;
+           font-weight: 700;
+           letter-spacing: 1px;
+           padding: 8px 14px;
+           border-radius: 20px;
+
+       }
 
 
 
