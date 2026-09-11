@@ -32,7 +32,9 @@
             color:#3A2A20;
         }
 
-
+       .homepage-section1{
+           padding-bottom: 40px;
+       }
 
         .split-section{
             display: grid;
