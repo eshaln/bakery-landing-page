@@ -138,6 +138,8 @@
 
        .featured-items{
            background-color:white;
+           justify-content:center;
+           text-align:center;
 
        }
        .badge2{
