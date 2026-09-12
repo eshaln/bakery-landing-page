@@ -236,105 +236,10 @@
         }
 
 
-        /* MENU*/
-        .cakes{
-         background-color:rgb(186, 153, 109);
-         border-radius: 4px;
-         padding: 10px;
-         margin: 10px;
-         text-align: center;
-            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-        }
-       
-            
-        
-         .muffins{
-         background-color:rgb(186, 153, 109);
-         border-radius:4px;
-         padding: 10px;
-         margin: 10px;
-         text-align: center;
-            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-        }
-         .donuts{
-         background-color:rgb(186, 153, 109);
-         border-radius: 4px;
-         padding: 10px;
-         margin: 10px;
-         text-align: center;
-            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-        }
-        .menu-cake{
-            background-color:bisque;
-             border-radius: 8px;
-            padding: 20px;
-            margin: 45px;
-            text-align: center;
-            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-            width: 400px;
-            height: 540px;
-            margin-left:auto;
-            margin-right:auto;
-            margin-top: 30px;
-            margin-bottom:30px;
-            
-         }
-         .menu-container{
-            display: flex;
-            justify-content: center;
-            flex-wrap: wrap;
-            gap:30px;
-            
-         }
-
-         .menu-cake img{
-            display: block;
-            width: 210px;
-            height: auto;    
-             }
-
-             .menu-muffins{
-            background-color:bisque;
-            border-radius: 8px;
-            padding: 20px;
-            margin: 45px;
-            text-align: center;
-            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-            width: 400px;
-            height: 540px;
-            margin-left:auto;
-            margin-right:auto;
-            margin-top: 30px;
-            margin-bottom:30px;
-
-             }
-
-             .menu-muffins img{
-            display: block;
-            width: 210px;
-            height: auto;   
-
-             }
-
-             .menu-donuts{
-            background-color:bisque;
-            border-radius: 8px;
-            padding: 20px;
-            margin: 45px;
-            text-align: center;
-            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-            width: 400px;
-            height: 540px;
-            margin-left:auto;
-            margin-right:auto;
-            margin-top: 30px;
-            margin-bottom:30px;
-
-             }
-             .menu-donuts img{
-            display: block;
-            width: 210px;
-            height: auto;
+        /* MENU */
+.menu-page{
+    background-color:#FBF3E7;
+    text-align:center;
 
 }
 .menu-page h2{
