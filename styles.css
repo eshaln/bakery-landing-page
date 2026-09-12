@@ -205,6 +205,16 @@
 
         }
 
+        .stats-section{
+            background-color:#3A2A20;
+            color:#D9992E;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap:35px;
+
+        }
+
 
 
           /* MENU*/
