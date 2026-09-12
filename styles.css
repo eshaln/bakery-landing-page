@@ -23,7 +23,6 @@
 
         .nav-menu a {
             text-decoration: none;
-
             color: #3A2A20;
 
         }
@@ -58,15 +57,15 @@
         }
 
         .homepage-section1 h3{
-            font-family:"Playfair";
+
             font-weight:bold;
             font-weight: 800;
             font-size:70px;
-            margin-top:100px;
             margin-left:300px;
             color: #3A2A20;
             margin-top:0;
             margin-bottom: 20px;
+
 
         }
         h3 em{
@@ -86,37 +85,24 @@
             margin-top:20px;
             text-align:left;
             line-height: 1.6;
+            color:#6b5a4f;
 
         }
 
 
-            h2{
-                font-size: 30px;
-            text-align: center;
 
-        }
-        p{
-            color: #4a1f04;
 
-            font-size: 25px;
-            text-align: center;
-            
-         }
+
         
        
          body{
-            background-color:#FBF3E7;
+
              font-family:"Playfair";
            
         }
 
 
-          h1{
-            color: #2e1304;
-              font-size: 60px;
-            text-align: center;
-            text-transform:capitalize
-        }
+
 
           .button1{
 
@@ -160,7 +146,6 @@
        }
        .featured-items h2{
            font-size:50px;
-           font-weight:bold;
            font-weight:900;
            margin:0;
 
@@ -172,7 +157,6 @@
        }
 
        .featured-cards{
-           align-items:center;
            justify-content:center;
            display:flex;
            align-items: flex-start;
@@ -187,10 +171,10 @@
            text-align: center;
        }
 
-        .featured-card p{
-            font-size:22px;
-            color:#6b5a4f;
-            text-align:center;
+        .featured-card p {
+            font-size: 22px;
+            color: #6b5a4f;
+            text-align: center;
 
         }
         .featured-card{
@@ -203,7 +187,7 @@
         .featured-card img{
             display:block;
             margin:15px auto 8px;
-        
+
 
         }
 
@@ -230,7 +214,7 @@
             gap:70px;
             font-weight:800;
             margin: 0 0 8px 0;
-            font-family: serif;
+            font-family: "DM Serif Text";
         }
         .stats p{
             color:white;
@@ -238,14 +222,15 @@
             font-size:18px;
             font-weight: 500;
             margin:0;
+            font-family: "DM Serif Text";
         }
 
 
 
-          /* MENU*/
+        /* MENU*/
         .cakes{
          background-color:rgb(186, 153, 109);
-         border-radius: 4 px;
+         border-radius: 4px;
          padding: 10px;
          margin: 10px;
          text-align: center;
@@ -391,7 +376,7 @@
              .Cupcake-img img{
             display:flex;
             width: 210px;
-            height: 400;
+            height: 400px;
 
              }
 
@@ -424,14 +409,7 @@
                font-size:30px;
              }
 
-             .header h3{
-               font-size:50px;
-               color: #5C2E00;
-              font: weight 700px;
-             }
-             .home-page h3{
-               font-size: 60px;
-             }
+
              .contact-container{
             display: block;
             justify-content: center;
@@ -469,18 +447,16 @@
             margin-bottom:30px;
 
              }
-              .address{
-           background-color:#FFE2BF;
-            border-radius: 8px;
-            padding: 20px;
-            margin: 45px;
-            text-align: center;
-            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-            width: 400px;
-            height: auto;
-            margin-left:auto;
-            margin-right:auto;
-            margin-top: 30px;
-            margin-bottom:30px;
-
-             }
+              .address {
+                  background-color: #FFE2BF;
+                  border-radius: 8px;
+                  padding: 20px;
+                  margin: 45px;
+                  text-align: center;
+                  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+                  width: 400px;
+                  height: auto;
+                  margin-left: auto;
+                  margin-right: auto;
+                  margin-top: 30px;
+                  margin-bottom: 30px;}
