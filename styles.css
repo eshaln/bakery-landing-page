@@ -219,6 +219,24 @@
 
 
         }
+        .stats{
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            text-align: center;
+        }
+        .stats h1{
+            font-size:50px;
+            gap:70px;
+            font-weight:800;
+            margin: 0 0 8px 0;
+            font-family: serif;
+        }
+        .stats p{
+            color:white;
+            text-align: center;
+            font-size:18px;
+        }
 
 
 
