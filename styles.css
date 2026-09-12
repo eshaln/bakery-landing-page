@@ -274,3 +274,25 @@ h2 em{
     font-weight: bold;
 
 }
+
+.cakes{
+    font-size:30px;
+    margin-left:70px;
+
+}
+.menu-container{
+    display:grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 16px 20px;
+    margin-left:70px;
+
+}
+.menu-cake h3{
+    font-size:28px;
+    font-weight:800;
+    color:#3A2A20;
+}
+.menu-cake p{
+    font-size:18px;
+    color:#6b5a4f;
+}
