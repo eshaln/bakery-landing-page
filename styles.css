@@ -240,7 +240,7 @@
 .menu-page{
     background-color:#FBF3E7;
     text-align:center;
-    padding-bottom:50px;
+    padding-bottom:70px;
 
 }
 .badge3{
@@ -295,4 +295,9 @@ h2 em{
 .menu-cake p{
     font-size:18px;
     color:#6b5a4f;
+    margin-left:70px;
+
+}
+.cake-header{
+    display:flex;
 }
