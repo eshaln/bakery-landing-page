@@ -280,6 +280,9 @@ h2 em{
     margin-left:70px;
 
 }
+.cakes h1{
+    font-size:60px;
+}
 .menu-container{
     display:grid;
     grid-template-columns: 1fr 1fr;
