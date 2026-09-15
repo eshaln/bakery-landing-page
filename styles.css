@@ -276,9 +276,10 @@ h2 em{
 }
         .menu-container{
             display:grid;
-            grid-template-columns: 1fr 1fr;
-            gap: 10px 30px;
-            margin-left:70px;
+            grid-template-columns: 500px 500px;
+            gap: 15px 30px;
+           justify-content: center;
+
 
         }
 .menu-cake{
