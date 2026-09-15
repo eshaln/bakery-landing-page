@@ -277,6 +277,11 @@ h2 em{
 .menu-cake{
     border-radius: 20px;
 }
+        .cake-header{
+            display: flex;
+            align-items: center;
+            gap:15px;
+        }
 
 .cakes{
     font-size:30px;
