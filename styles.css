@@ -284,6 +284,8 @@ h2 em{
         }
 .menu-cake{
     border-radius: 20px;
+    width:500px;
+    grid-template-columns: 100px 1fr;
 }
         .cake-header{
             display: flex;
