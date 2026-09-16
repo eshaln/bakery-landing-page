@@ -287,6 +287,11 @@ h2 em{
     width:500px;
     grid-template-columns: 100px 1fr;
 }
+        .cake-header img {
+            grid-column: 1;
+            grid-row: 1 / span 2;
+        }
+
         .cake-header{
             display: flex;
             align-items: center;
