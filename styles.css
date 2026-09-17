@@ -291,7 +291,7 @@ h2 em{
             grid-column: 1;
             grid-row: 1 / span 2;
         }
-
+        .cupcake-header,
         .cake-header{
             display: flex;
             align-items: center;
