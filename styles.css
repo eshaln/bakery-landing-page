@@ -89,22 +89,14 @@
 
         }
 
-
-
-
-
-        
-       
-         body{
+        body{
 
              font-family:"Playfair";
            
         }
 
 
-
-
-          .button1{
+        .button1{
 
 
               color:white;
@@ -135,21 +127,14 @@
            display: inline-block;
            background: #f3ddd6;
            color: #a13d5a;
-           font-size: 13px;
-           font-weight: 700;
-           letter-spacing: 1px;
            padding: 8px 14px;
            border-radius: 20px;
            margin-top:50px;
 
 
        }
-       .featured-items h2{
-           font-size:50px;
-           font-weight:900;
-           margin:0;
 
-       }
+
        .featured-items p{
            font-size:22px;
            color:#6b5a4f;
@@ -282,6 +267,7 @@ h2 em{
 
 
         }
+        .menu-cupcake,
 .menu-cake{
     border-radius: 20px;
     width:500px;
@@ -291,6 +277,8 @@ h2 em{
             grid-column: 1;
             grid-row: 1 / span 2;
         }
+
+
         .cupcake-header,
         .cake-header{
             display: flex;
@@ -298,9 +286,11 @@ h2 em{
             gap:15px;
         }
 
-.cakes{
+.cakes,
+.cupcakes{
     font-size:30px;
     margin-left:70px;
+
 
 }
 
@@ -309,14 +299,10 @@ h2 em{
     font-size:60px;
     margin-left:200px;
 }
-.menu-container{
-    display:grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 16px 20px;
-    margin-left:70px;
 
-}
 .menu-cake h3{
+    grid-column: 2;
+    grid-row: 1;
     font-size:28px;
     font-weight:800;
     color:#3A2A20;
@@ -324,7 +310,9 @@ h2 em{
 
 
 }
-.menu-cake p{
+        .menu-cake p{
+            grid-column: 2;
+            grid-row: 1;
     font-size:18px;
     color:#6b5a4f;
     margin:0 0 0 135px;
@@ -337,3 +325,4 @@ h2 em{
     background-color: #f3ddd6;
 
 }
+
