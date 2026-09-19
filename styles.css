@@ -314,3 +314,12 @@
         .menu-cake:hover {
             background-color: #f3ddd6;
         }
+
+        .menu-cupcake{
+            display:grid;
+            grid-template-columns: 100px 1fr;
+            background-color: #ffffff;
+            border-radius: 20px;
+            width: 500px;
+            padding: 15px;
+        }
