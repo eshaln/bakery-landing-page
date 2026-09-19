@@ -219,110 +219,98 @@
             font-weight:600;
 
         }
-
-
         /* MENU */
-.menu-page{
-    background-color:#FBF3E7;
-    text-align:center;
-    padding-bottom:30px;
+        .menu-page {
+            background-color: #FBF3E7;
+            text-align: center;
+            padding-bottom: 30px;
+        }
 
-}
-.badge3{
-    display: inline-block;
-    background: #f3ddd6;
-    color: #a13d5a;
-    font-size: 13px;
-    font-weight: 700;
-    letter-spacing: 1px;
-    padding: 8px 14px;
-    border-radius: 20px;
-    margin-top:70px;
+        .badge3 {
+            display: inline-block;
+            background: #f3ddd6;
+            color: #a13d5a;
+            font-size: 13px;
+            font-weight: 700;
+            letter-spacing: 1px;
+            padding: 8px 14px;
+            border-radius: 20px;
+            margin-top: 70px;
+        }
 
-}
-.menu-page h2{
-    font-size:60px;
-    font-weight:900;
-    margin:0;
-    color:#3A2A20;
+        .menu-page h2 {
+            font-size: 60px;
+            font-weight: 900;
+            margin: 0;
+            color: #3A2A20;
+        }
 
+        h2 em {
+            color: #a13d5a;
+        }
 
-}
-h2 em{
-    color:#a13d5a;
+        .menu-page p {
+            font-size: 20px;
+            color: #6b5a4f;
+            margin: 5px 0 0;
+            font-weight: bold;
+        }
 
-}
-.menu-page p{
-    font-size:20px;
-    color:#6b5a4f;
-    margin:5px 0 0;
-    font-weight: bold;
-
-}
-        .menu-container{
-            display:grid;
+        .menu-container {
+            display: grid;
             grid-template-columns: 500px 500px;
             gap: 15px 30px;
-           justify-content: center;
-
-
+            justify-content: center;
         }
+
         .menu-cupcake,
-.menu-cake{
-    border-radius: 20px;
-    width:500px;
-    grid-template-columns: 100px 1fr;
-}
+        .menu-cake {
+            border-radius: 20px;
+            width: 500px;
+            grid-template-columns: 100px 1fr;
+        }
+
         .cake-header img {
             grid-column: 1;
             grid-row: 1 / span 2;
         }
 
-
         .cupcake-header,
-        .cake-header{
+        .cake-header {
             display: flex;
             align-items: center;
-            gap:15px;
+            gap: 15px;
         }
 
-.cakes,
-.cupcakes{
-    font-size:30px;
-    margin-left:70px;
+        .cakes,
+        .cupcakes {
+            font-size: 30px;
+            margin-left: 70px;
+        }
 
+        .cupcakes h1,
+        .cakes h1 {
+            font-size: 60px;
+            margin-left: 200px;
+        }
 
-}
-
-.cupcakes h1,
-.cakes h1{
-    font-size:60px;
-    margin-left:200px;
-}
-
-.menu-cake h3{
-    grid-column: 2;
-    grid-row: 1;
-    font-size:28px;
-    font-weight:800;
-    color:#3A2A20;
-    margin:0;
-
-
-}
-        .menu-cake p{
+        .menu-cake h3 {
             grid-column: 2;
             grid-row: 1;
-    font-size:18px;
-    color:#6b5a4f;
-    margin:0 0 0 135px;
+            font-size: 28px;
+            font-weight: 800;
+            color: #3A2A20;
+            margin: 0;
+        }
 
+        .menu-cake p {
+            grid-column: 2;
+            grid-row: 1;
+            font-size: 18px;
+            color: #6b5a4f;
+            margin: 0 0 0 135px;
+        }
 
-
-
-}
-.menu-cake:hover{
-    background-color: #f3ddd6;
-
-}
-
+        .menu-cake:hover {
+            background-color: #f3ddd6;
+        }
