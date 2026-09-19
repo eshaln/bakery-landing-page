@@ -315,6 +315,14 @@
             background-color: #f3ddd6;
         }
 
+        /*Cupcake*/
+
+        .cupcake-header{
+            display: flex;
+            align-items: center;
+            gap: 15px;
+
+        }
         .menu-cupcake{
             display:grid;
             grid-template-columns: 100px 1fr;
