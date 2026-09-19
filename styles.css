@@ -316,6 +316,10 @@
         }
 
         /*Cupcake*/
+        .cupcakes h1{
+            font-size: 60px;
+            margin-left: 200px;
+        }
 
         .cupcake-header{
             display: flex;
