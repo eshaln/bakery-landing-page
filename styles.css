@@ -336,7 +336,8 @@
             font-size: 28px;
             font-weight: 800;
             color: #3A2A20;
-            margin: 0;
+
+            margin-left:50px;
 
         }
         .cupcake-header img {
