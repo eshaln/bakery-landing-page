@@ -332,6 +332,13 @@
             gap: 15px;
 
         }
+        .cupcake-header h3{
+            font-size: 28px;
+            font-weight: 800;
+            color: #3A2A20;
+            margin: 0;
+
+        }
         .cupcake-header img {
             grid-column: 1;
             grid-row: 1 / span 2;
