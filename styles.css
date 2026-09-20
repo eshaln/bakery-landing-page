@@ -327,6 +327,11 @@
             gap: 15px;
 
         }
+        .cupcake-header img {
+            grid-column: 1;
+            grid-row: 1 / span 2;
+        }
+
         .menu-cupcake{
             display:grid;
             grid-template-columns: 100px 1fr;
