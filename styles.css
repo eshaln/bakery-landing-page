@@ -320,6 +320,11 @@
             font-size: 60px;
             margin-left: 200px;
         }
+        .menu-cupcake p{
+            font-size: 18px;
+            color: #6b5a4f;
+            margin: 0 0 0 125px;
+        }
 
         .cupcake-header{
             display: flex;
