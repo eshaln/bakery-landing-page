@@ -316,6 +316,10 @@
         }
 
         /*Cupcake*/
+        .bg-color{
+            background-color:#FBF3E7 ;
+            padding-top:30px;
+        }
         .cupcakes h1{
             font-size: 60px;
             margin-left:298px;
