@@ -360,3 +360,12 @@
 
 
         }
+
+
+        /*Donuts*/
+       .menu-donut{
+           border-radius: 20px;
+           width: 500px;
+           padding: 15px;
+
+       }
