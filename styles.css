@@ -390,5 +390,9 @@
             line-height: 1.5;
             text-align: center;
             font-weight:600;
+            border-top:2px solid #f3ddd6;
+            padding-top:15px;
+
+
 
         }
