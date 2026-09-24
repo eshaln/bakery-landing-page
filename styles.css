@@ -207,7 +207,7 @@
             font-size:18px;
             font-weight: 500;
             margin:0;
-            font-family: "DM Serif Text";
+            font-family: "DM Serif Text",sans serif ;
         }
 
         footer p{
