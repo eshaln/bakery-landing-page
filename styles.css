@@ -382,3 +382,13 @@
       .menu-donut:hover{
           background-color: #f3ddd6;
       }
+
+        footer p{
+            color: #8C7A6B;
+            font-size: 22px;
+            margin-top: 8px;
+            line-height: 1.5;
+            text-align: center;
+            font-weight:600;
+
+        }
