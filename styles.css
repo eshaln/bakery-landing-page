@@ -330,7 +330,7 @@
             color: #6b5a4f;
             margin:0 0 0 125px;
         }
-
+        .donut-header,
         .cupcake-header{
             display: flex;
             align-items: center;
