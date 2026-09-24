@@ -373,3 +373,11 @@
            padding: 15px;
 
        }
+
+       .donut-header h1{
+           font-size: 28px;
+           font-weight: 800;
+           color: #3A2A20;
+           margin-left:30px;
+
+       }
