@@ -397,3 +397,10 @@
 
 
         }
+
+        /*CONTACT*/
+        .contact-page {
+            background-color: #FBF3E7;
+            text-align: center;
+            padding-bottom: 60px;
+        }
