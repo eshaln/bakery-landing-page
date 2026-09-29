@@ -40,6 +40,26 @@
             <div class="split-section2">
                 <h1>Send us a message</h1>
                 <p>Fill this out, and we'll get back to you within a day — usually sooner.</p>
+
+                <div class="contact-form">
+
+                    <form action="" method="POST" id="contact-form">
+                        <label for="name">Name:</label>
+                        <input type="text" id="name" name="name" required />
+
+                        <label for="email">Email:</label>
+                        <input type="email" id="email" name="email" required />
+
+                        <label for="subject">Subject:</label>
+                        <input type="text" id="subject" name="subject" required />
+
+                        <label for="message">Message:</label>
+                        <textarea id="message" name="message" rows="5" required></textarea>
+
+                        <button type="submit">Submit</button>
+                        <p id="form-message"></p>
+                    </form>
+                </div>
             </div>
         </section>
        
