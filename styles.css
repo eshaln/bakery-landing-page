@@ -414,7 +414,7 @@
 
         }
 
-        .split-section{
+        .split-section2{
             display: grid;
             grid-template-columns: 1.1fr 0.9fr;
             gap: 48px;
