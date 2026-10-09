@@ -404,6 +404,9 @@
 
 
         /* ABOUT */
+        #about{
+            background-color: #ffff;
+        }
 
         .about-section2{
             padding-bottom: 20px;
