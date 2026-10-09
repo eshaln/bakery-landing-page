@@ -405,6 +405,52 @@
 
         /* ABOUT */
 
+        .about-section2{
+            padding-bottom: 20px;
+            background-color: #FBF3E7;
+        }
+
+        .split-section{
+            display: grid;
+            grid-template-columns: 1.1fr 0.9fr;
+            gap: 48px;
+            align-items: center;
+            background-color:#FBF3E7;
+        }
+
+        .about-section2 h3{
+            font-weight: 800;
+            font-size:50px;
+            margin-left:300px;
+            color: #3A2A20;
+            margin-top:0;
+            margin-bottom: 20px;
+
+
+        }
+
+        h3 em{
+            color: #a13d5a;
+            font-style: italic;
+        }
+
+        .about-section2 img {
+            width: 280px;
+            max-width: 100%;
+            height: auto;
+            display: block;
+        }
+
+        .about-section2 p{
+            font-size:19px;
+            margin-left:300px;
+            margin-top:20px;
+            text-align:left;
+            line-height: 1.6;
+            color:#6b5a4f;
+
+        }
+
 
 
 
