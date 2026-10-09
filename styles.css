@@ -238,7 +238,8 @@
             border-radius: 20px;
             margin-top: 70px;
         }
-
+        .about-page h2,
+        .contact-page h2,
         .menu-page h2 {
             font-size: 60px;
             font-weight: 900;
