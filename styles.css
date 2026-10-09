@@ -454,6 +454,41 @@
             color:#6b5a4f;
 
         }
+        .time-line{
+            background-color:#3A2A20;
+            color:#D9992E;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            margin-top:60px;
+            gap:100px;
+            padding: 70px 50px;
+            width:auto;
+
+        }
+        .t-stats {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            text-align: center;
+        }
+
+        .t-stats h1{
+            font-size:50px;
+            gap:70px;
+            font-weight:800;
+            margin: 0 0 8px 0;
+            font-family: "DM Serif Text",sans-serif;
+        }
+
+        .t-stats p{
+            color:white;
+            text-align: center;
+            font-size:18px;
+            font-weight: 500;
+            margin:0;
+            font-family: "DM Serif Text",sans-serif ;
+        }
 
 
 
