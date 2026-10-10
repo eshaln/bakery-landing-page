@@ -133,6 +133,10 @@
 
        }
 
+      .featured-items h2{
+          font-size:35px;
+          font-weight:800;
+      }
 
        .featured-items p{
            font-size:22px;
