@@ -166,6 +166,9 @@
             height:290px;
             background-color:#FBF3E7;
             border-radius:18px;
+            padding-top: 15px;
+            padding-left:10px;
+            padding-right:10px;
 
         }
         .featured-card img{
