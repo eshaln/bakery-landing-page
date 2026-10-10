@@ -534,6 +534,52 @@
         }
 
 
+        /* WHY US */
+        .number{
+            font-family: "Fraunces", Georgia, serif;
+            font-style: italic;
+            font-size: 40px;
+            line-height: 1;
+            color: #A93D52
+        }
+        .why-container{
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 30px 30px;
+            max-width: 1050px;
+            margin: 0 auto;
+            padding: 0 20px 50px;
+
+        }
+
+        .why-page2 {
+            display: grid;
+            grid-template-columns: 70px 1fr;
+            align-items: start;
+            gap: 15px;
+            padding: 36px 32px;
+            background-color: #FBF3E7;
+            border: 1px solid #E8DCCB;
+            border-radius: 24px;
+            transition: box-shadow 0.25s ease, transform 0.25s ease;
+        }
+
+
+        .why3 h3{
+            margin: 0 0 8px;
+            font-family: "Fraunces", Georgia, serif;
+            font-size: 20px;
+            font-weight: 700;
+            color: #2B1D14;
+        }
+        .why3 p{
+            margin: 0;
+            font-size: 15px;
+            line-height: 1.8;
+            color: #6B5A4E;
+
+        }
+
 
         /*CONTACT*/
         .contact-page {
