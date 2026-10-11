@@ -623,7 +623,7 @@
 
         .contact-form input,
         .contact-form textarea {
-            width: 100%;
+            width: 90%;
             padding: 12px;
             border: 1px solid #ccc;
             border-radius: 8px;
