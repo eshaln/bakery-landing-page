@@ -588,6 +588,14 @@
 
 
         /*CONTACT*/
+        .split-section2 h1{
+            margin-left:300px;
+            color:#3A2A20;
+            font-weight:bold;
+            padding-top: 50px;
+            font-size: 40px;
+        }
+
         .contact-page {
             background-color: #FBF3E7;
             text-align: center;
