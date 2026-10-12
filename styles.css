@@ -559,7 +559,7 @@
 
         .why-page2 {
             display: grid;
-            grid-template-columns: 70px 1fr;
+            grid-template-columns: auto 1fr;
             align-items: start;
             gap: 20px;
             padding: 20px 19px;
