@@ -269,7 +269,7 @@
             margin: 5px 0 0;
             font-weight: bold;
         }
-
+.why-container,
         .menu-container {
             display: grid;
             grid-template-columns: 500px 500px;
