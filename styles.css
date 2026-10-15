@@ -243,7 +243,9 @@
             margin-left:200px;
 
         }
-
+        .f2{
+            border:1px solid #6b5a4f;
+        }
         /* MENU */
         .why-page,
         .about-page,
