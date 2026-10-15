@@ -234,6 +234,17 @@
             padding-top: 70px;
 
         }
+
+        footer p{
+            color: #3A2A20;
+            font-size: 22px;
+            line-height: 1.5;
+            text-align: left;
+            font-weight:600;
+            margin-left:200px;
+
+        }
+
         /* MENU */
         .why-page,
         .about-page,
