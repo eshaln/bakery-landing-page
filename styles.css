@@ -691,6 +691,9 @@
             flex-wrap: wrap;
 
         }
+        .cust-cards h1{
+            font-size: 16px;
+        }
         .cust-cards .stars{
             color:#D9992E;   /* gold */
             font-size: 0.95rem;
