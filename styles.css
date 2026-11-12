@@ -691,6 +691,12 @@
             flex-wrap: wrap;
 
         }
+        .cust-cards .stars{
+            color:#D9992E;   /* gold */
+            font-size: 0.95rem;
+            margin-bottom: 14px;
+            letter-spacing: 2px;
+        }
         .cust-cards{
             width:350px;
             height:160px;
