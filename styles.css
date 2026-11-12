@@ -683,3 +683,11 @@
             text-align:center;
 
         }
+        .customer-reviews{
+            justify-content:center;
+            display:flex;
+            align-items: flex-start;
+            gap: 24px;
+            flex-wrap: wrap;
+
+        }
