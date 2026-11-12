@@ -693,6 +693,7 @@
         }
         .cust-cards h1{
             font-size: 16px;
+            font-weight:bold;
         }
         .cust-cards .stars{
             color:#D9992E;   /* gold */
