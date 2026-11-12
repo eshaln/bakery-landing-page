@@ -677,3 +677,9 @@
 
         /* WHY US PAGE CUSTOMER REVIEWS SECTION */
 
+        .cust-reviews{
+            background-color:white;
+            justify-content:center;
+            text-align:center;
+
+        }
