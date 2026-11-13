@@ -1,7 +1,4 @@
 
-
-
-
         nav{
             display: flex;
             height: 75px;
@@ -57,8 +54,6 @@
         }
 
         .homepage-section1 h3{
-
-            font-weight:bold;
             font-weight: 800;
             font-size:70px;
             margin-left:300px;
@@ -68,10 +63,12 @@
 
 
         }
+
         h3 em{
             color: #a13d5a;
             font-style: italic;
         }
+
         .homepage-section2 img {
             width: 380px;
             max-width: 100%;
@@ -95,8 +92,6 @@
 
 
         .button1{
-
-
               color:white;
               background-color: #a13d5a;
               border-radius:20px;
@@ -107,8 +102,6 @@
           }
 
         .button2{
-
-
             color:#3A2A20;
             background-color: transparent;
             border-radius:20px;
@@ -156,6 +149,7 @@
 
 
        }
+
        .featured-card h1{
            font-size:22px;
            font-weight:800;
@@ -222,12 +216,10 @@
             font-family: "DM Serif Text",sans-serif ;
         }
 
-        footer h1{
+        footer h1 {
             color: #3A2A20;
             font-size: 22px;
-            margin-top: 8px;
-            line-height: 1.5;
-            font-family:'Fraunces' ,serif;
+            font-family: 'Fraunces', serif;
             text-align: left;
             margin-left: 200px;
             font-weight: 600;
@@ -241,7 +233,6 @@
             text-align: left;
             font-weight:600;
             margin-left:200px;
-
         }
         .f2{
             margin-top:15px;
@@ -292,7 +283,8 @@
             margin: 5px 0 0;
             font-weight: bold;
         }
-.why-container,
+
+        .why-container,
         .menu-container {
             display: grid;
             grid-template-columns: 500px 500px;
@@ -348,7 +340,6 @@
             color: #6b5a4f;
             margin: 0 0 0 135px;
         }
-
         .menu-cake:hover {
             background-color: #f3ddd6;
         }
@@ -398,8 +389,6 @@
 
         .menu-cupcake:hover{
           background-color: #ece5d9;
-
-
         }
 
 
@@ -422,19 +411,6 @@
           background-color: #f3ddd6;
       }
 
-        footer p{
-            color: #3A2A20;
-            font-size: 22px;
-            margin-top: 8px;
-            line-height: 1.5;
-            text-align: center;
-            font-weight:600;
-            border-top:2px solid #f3ddd6;
-            padding-top:15px;
-
-
-
-        }
 
 
         /* ABOUT */
@@ -561,7 +537,7 @@
         .number{
             font-family: "Fraunces", Georgia, serif;
             font-style: italic;
-            font-size: 40px;
+            font-size: 30px;
             line-height: 1;
             color: #A93D52;
         }
@@ -576,41 +552,46 @@
 
 
         }
-        .why3{
-            display: flex;
-            flex-direction: column;
-        }
+
 
         .why-page2 {
             display: grid;
-            grid-template-columns: auto 1fr;
+            grid-template-columns: 45px 1fr;
             align-items: start;
-            gap: 20px;
-            padding-top:40px;
-            padding-left: 20px;
+            column-gap: 15px;
+
+            padding: 35px 25px;
             background-color: #FBF3E7;
             border: 1px solid #E8DCCB;
             border-radius: 24px;
+
             transition: box-shadow 0.25s ease, transform 0.25s ease;
         }
 
-
-        .why3 h3{
-            margin: 0 0 12px 0;
+        .why-page2 .number {
             font-family: "Fraunces", Georgia, serif;
-            font-size: 20px;
-            font-weight: 700;
-            color: #2B1D14;
-            line-height:1;
+            font-style: italic;
+            font-size: 36px;
+            line-height: 1.2;
+            color: #A93D52;
         }
-        .why3 p{
+
+        .why3 {
+            display: flex;
+            flex-direction: column;
+            align-items: flex-start;
+        }
+
+        .why3 h3 {
+            margin:0px;
+            text-align: left;
+        }
+
+        .why3 p {
             margin: 0;
-            font-size: 15px;
+            text-align: left;
             line-height: 1.8;
-            color: #6B5A4E;
-
         }
-
 
         /*CONTACT*/
         .split-section2 h1{
