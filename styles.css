@@ -683,6 +683,10 @@
             text-align:center;
 
         }
+        .cust-reviews h2{
+            font-size: 22px;
+
+        }
         .customer-reviews{
             justify-content:center;
             display:flex;
